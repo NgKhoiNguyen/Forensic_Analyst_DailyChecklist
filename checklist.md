@@ -1,9 +1,9 @@
-1. Kiểm soát thông báo bảo mật
+## 1. Kiểm soát thông báo bảo mật
 - Kiểm tra mọi cảnh báo bảo mật có mức độ ưu tiên cao do các công cụ giám sát hoặc hệ thống SIEM (Quản lý sự kiện và thông tin bảo mật) tạo ra.
 - Phân tích và ưu tiên các cảnh báo dựa trên mức độ nghiêm trọng và tác động tiềm ẩn.
 - Phối hợp với các nhà phân tích SOC để điều tra và phản hồi các cảnh báo quan trọng.
 
-2. Ứng phó sự cố
+# 2. Ứng phó sự cố
 - Giám sát các sự cố bảo mật đang diễn ra và đảm bảo ứng phó và giải quyết sự cố một cách thích hợp.
 - Phối hợp với các nhóm ứng phó sự cố (nếu cần) để giảm thiểu và ngăn chặn mọi sự cố bảo mật đang diễn ra.
 - Xem xét, cập nhật các kế hoạch và quy trình ứng phó sự cố khi cần thiết.
